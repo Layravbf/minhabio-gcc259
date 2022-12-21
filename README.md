@@ -3,6 +3,8 @@ Atividade Prática Avaliativa 1 da Disciplina de Desenvolvimento de Software Liv
 
 ## Hi, I'm Layra,
 
+![foto](https://user-images.githubusercontent.com/60800960/208917234-b41795b5-3d86-4038-9dc9-7d8cda73b392.jpg)
+
 ---- 
 
 - 👩🏻‍💻Data Engineer at DP6
